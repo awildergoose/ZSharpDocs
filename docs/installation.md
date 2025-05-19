@@ -5,7 +5,7 @@ Downloading or installing is very simple, here is how depending on your version 
 1. Navigate to [the most recent release](https://github.com/sam-astro/Z-Sharp/releases) and download `ZSharp-Win-Installer.zip`.
 2. Unzip `ZSharp-Win-Installer.zip` and open the unzipped folder.
 3. Inside is a single file titled `ZSharp-Setup.exe`. Run it, and follow the setup instructions.
-4. Now that it is installed, learn how to use it by following [the tutorial](https://stevenrafft.github.io/ZSharpDocs/#/hello-world)
+4. Now that it is installed, learn how to use it by following [the tutorial](https://awildergoose.github.io/ZSharpDocs/#/hello-world)
 
 ### Linux
 1. #### Requirements
